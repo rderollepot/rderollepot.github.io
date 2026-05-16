@@ -119,7 +119,7 @@ h2.section-title {
   display: grid;
   grid-template-columns: var(--sidebar-width) 1fr;
   gap: 2.5rem;
-  align-items: start;
+  align-items: center;
 }
 
 .about-photo {
